@@ -12,6 +12,6 @@ knitr::opts_chunk$set(echo = TRUE)
 #### Collaborators and github accounts
 Shiyu Xu @ssyxu  
   
-Yifan Li @
+Yifan Li @yifanli7
 
 ![This is a cartoon image of a biologist. ](https://lh3.googleusercontent.com/proxy/tTcgbQiUD7fqmfphQw_AxNy6LAAX4_6OL-rdBh-KgS7dH3gji7mLR7LVX-iHuCUjk9Es5YHAkx_GpG5RFCMTsC21RnCc1RW6j5QqX3k)
