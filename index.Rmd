@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Shiyu Xu @ssyxu  
 https://github.com/ssyxu  
   
-Yifan Li @yifanli7
+Yifan Li @yifanli7  
 https://github.com/yifanli7  
 
 ![This is a cartoon image of a biologist. ](https://lh3.googleusercontent.com/proxy/tTcgbQiUD7fqmfphQw_AxNy6LAAX4_6OL-rdBh-KgS7dH3gji7mLR7LVX-iHuCUjk9Es5YHAkx_GpG5RFCMTsC21RnCc1RW6j5QqX3k)

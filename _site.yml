@@ -9,7 +9,7 @@ navbar:
       href: yifan.html
 output:
   html_document:
-    theme: cerulean
+    theme: sandstone
     highlight: textmate
     toc: true 
     toc_float: true
